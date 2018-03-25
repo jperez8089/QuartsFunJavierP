@@ -12,6 +12,7 @@
 		BA81482920681919002ED1F3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA81482720681919002ED1F3 /* Main.storyboard */; };
 		BA81482B20681919002ED1F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA81482A20681919002ED1F3 /* Assets.xcassets */; };
 		BA81482E20681919002ED1F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA81482C20681919002ED1F3 /* LaunchScreen.storyboard */; };
+		BA814837206819C7002ED1F3 /* QuartzFunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA814836206819C7002ED1F3 /* QuartzFunView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BA81482A20681919002ED1F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA81482D20681919002ED1F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA81482F20681919002ED1F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA814836206819C7002ED1F3 /* QuartzFunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuartzFunView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BA81482A20681919002ED1F3 /* Assets.xcassets */,
 				BA81482C20681919002ED1F3 /* LaunchScreen.storyboard */,
 				BA81482F20681919002ED1F3 /* Info.plist */,
+				BA814836206819C7002ED1F3 /* QuartzFunView.swift */,
 			);
 			path = QuartsFunJavierP;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA814837206819C7002ED1F3 /* QuartzFunView.swift in Sources */,
 				BA81482620681919002ED1F3 /* ViewController.swift in Sources */,
 				BA81482420681919002ED1F3 /* AppDelegate.swift in Sources */,
 			);
